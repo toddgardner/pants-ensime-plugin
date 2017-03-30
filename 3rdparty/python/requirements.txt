@@ -1,0 +1,2 @@
+pantsbuild.pants>=1.1.0
+pantsbuild.pants.testinfra>=1.1.0
